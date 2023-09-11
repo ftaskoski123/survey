@@ -17,7 +17,7 @@ To get started with the Survey Project, follow these steps:
    Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/ftaskoski123e/survey-project.git
+   git clone https://github.com/ftaskoski123/survey-project.git
 
 2.**Navigate to the Project Directory:**
 
